@@ -1,1 +1,1 @@
-# robotron-2000
+# project to practice a few Javascript concepts
