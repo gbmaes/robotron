@@ -1,7 +1,6 @@
 const subtrair = document.querySelector('#subtrair');
 const somar = document.querySelector('#somar');
 
-
 const controle = document.querySelectorAll(".controle-ajuste")
 console.log(controle)
 
