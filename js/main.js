@@ -3,7 +3,6 @@ const somar = document.querySelector('#somar');
 
 const controle = document.querySelectorAll(".controle-ajuste")
 console.log(controle)
-
 controle.forEach( (elemento) => {
     elemento.addEventListener("click", (evento) => {
             manipulaDados(evento.target.textContext, evento.target.parentNode)
