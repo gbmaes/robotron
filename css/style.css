@@ -149,7 +149,6 @@ main {
 }
 
 
-
 /****************************** Estatísticas *****/
 .estatisticas {
     flex-basis: 23%;
@@ -224,7 +223,6 @@ main {
     body { 
         font-size: 13px;
     }
-
     main {
         width: 96vw;
         height: 80vh;
