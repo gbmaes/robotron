@@ -6,7 +6,7 @@ controle.forEach( (elemento) => {
             manipulaDados(evento.target.dataset.controle, evento.target.parentNode);
             
     })
-})
+});
 
 function manipulaDados(operacao, controle){
     const peca = controle.querySelector("[data-contador]")
