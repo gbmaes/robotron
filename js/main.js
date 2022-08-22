@@ -1,6 +1,5 @@
 
 const controle = document.querySelectorAll("[data-controle]");
-
 controle.forEach( (elemento) => {
     elemento.addEventListener("click", (evento) => {
             manipulaDados(evento.target.dataset.controle, evento.target.parentNode);
